@@ -15,7 +15,7 @@ pytest
 
 Чтобы запустить unittest тесты можно передать в `note/manage.py` аргумент `test`:
 ```Bash
-python manage,py test
+python manage.py test
 ```
 
 Если очень хочется - запустить сервер для любого приложения можно через файл `manage.py`:
